@@ -12,6 +12,7 @@ return {
         "isort",
         "mypy",
         "ruff",
+        "go-debug-adapter",
       },
     },
   },
